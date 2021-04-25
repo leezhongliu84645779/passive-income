@@ -10,7 +10,7 @@
     "Description": "This is a function created by serverless component",
     "layers": []
   },
-  "codeHash": "d4243907bff27d01f8ceece5fed91cfc",
+  "codeHash": "62d9de3d2f696896c71b12533962f391",
   "Bucket": "sls-cloudfunction-ap-guangzhou-code",
-  "Key": "sls-cloudfunction-default-flask-function-1619339607.zip"
+  "Key": "sls-cloudfunction-default-flask-function-1619343595.zip"
 }
