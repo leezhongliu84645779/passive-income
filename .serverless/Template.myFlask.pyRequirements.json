@@ -1,0 +1,35 @@
+{
+  "servicePath": "/Users/zhongliuli/Desktop/exp2/tencent-flask",
+  "options": {
+    "slim": false,
+    "slimPatterns": false,
+    "slimPatternsAppendDefaults": true,
+    "zip": false,
+    "layer": false,
+    "cleanupZipHelper": true,
+    "invalidateCaches": false,
+    "fileName": "requirements.txt",
+    "usePipenv": true,
+    "usePoetry": true,
+    "runtime": "python3.6",
+    "pythonBin": "python",
+    "dockerizePip": false,
+    "dockerSsh": false,
+    "dockerImage": "lambci/lambda:build-python3.6",
+    "dockerFile": null,
+    "dockerEnv": false,
+    "dockerBuildCmdExtraArgs": [],
+    "dockerRunCmdExtraArgs": [],
+    "dockerExtraFiles": [],
+    "useStaticCache": true,
+    "useDownloadCache": true,
+    "cacheLocation": false,
+    "staticCacheMaxVersions": 0,
+    "pipCmdExtraArgs": [],
+    "noDeploy": [],
+    "vendor": "",
+    "include": [
+      "/Users/zhongliuli/Desktop/exp2/tencent-flask/.serverless/requirements"
+    ]
+  }
+}

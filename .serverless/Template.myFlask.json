@@ -1,0 +1,20 @@
+{
+  "functionName": "flask-function",
+  "functionOutputs": {
+    "ap-guangzhou": {
+      "Name": "flask-function",
+      "Runtime": "Python3.6",
+      "Handler": "api_service.handler",
+      "MemorySize": 128,
+      "Timeout": 10,
+      "Region": "ap-guangzhou",
+      "Namespace": "default",
+      "Description": "This is a function created by serverless component",
+      "layers": []
+    }
+  },
+  "region": "ap-guangzhou",
+  "apiGatewayServiceId": "service-9reuwah2",
+  "url": "https://service-9reuwah2-1305426041.gz.apigw.tencentcs.com/release/",
+  "cns": []
+}

@@ -1,0 +1,22 @@
+{
+  "protocols": [
+    "https"
+  ],
+  "subDomain": "service-9reuwah2-1305426041.gz.apigw.tencentcs.com",
+  "environment": "release",
+  "region": "ap-guangzhou",
+  "service": {
+    "value": "service-9reuwah2",
+    "created": true
+  },
+  "apis": [
+    {
+      "path": "/",
+      "method": "ANY",
+      "apiId": {
+        "value": "api-80355heu",
+        "created": true
+      }
+    }
+  ]
+}

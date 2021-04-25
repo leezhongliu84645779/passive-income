@@ -1,0 +1,16 @@
+{
+  "deployed": {
+    "Name": "flask-function",
+    "Runtime": "Python3.6",
+    "Handler": "api_service.handler",
+    "MemorySize": 128,
+    "Timeout": 10,
+    "Region": "ap-guangzhou",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "codeHash": "d4243907bff27d01f8ceece5fed91cfc",
+  "Bucket": "sls-cloudfunction-ap-guangzhou-code",
+  "Key": "sls-cloudfunction-default-flask-function-1619339607.zip"
+}

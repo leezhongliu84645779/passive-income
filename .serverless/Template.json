@@ -1,0 +1,5 @@
+{
+  "components": {
+    "myFlask": "/Users/zhongliuli/.serverless/components/registry/npm/@serverless/tencent-flask@1.0.1/node_modules/@serverless/tencent-flask"
+  }
+}
