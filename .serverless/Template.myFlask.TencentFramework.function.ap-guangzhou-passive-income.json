@@ -1,0 +1,16 @@
+{
+  "deployed": {
+    "Name": "passive-income",
+    "Runtime": "Python3.6",
+    "Handler": "api_service.handler",
+    "MemorySize": 128,
+    "Timeout": 10,
+    "Region": "ap-guangzhou",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "codeHash": "829a595f88b3cea7b1239f0402d7fba1",
+  "Bucket": "sls-cloudfunction-ap-guangzhou-code",
+  "Key": "sls-cloudfunction-default-passive-income-1619343893.zip"
+}

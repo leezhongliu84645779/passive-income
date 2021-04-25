@@ -1,8 +1,8 @@
 {
-  "functionName": "flask-function",
+  "functionName": "passive-income",
   "functionOutputs": {
     "ap-guangzhou": {
-      "Name": "flask-function",
+      "Name": "passive-income",
       "Runtime": "Python3.6",
       "Handler": "api_service.handler",
       "MemorySize": 128,
